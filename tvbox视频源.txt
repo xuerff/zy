@@ -1,0 +1,17 @@
+影视车:
+http://svip.weixine.net:88/uploads/itvbox/svip.json
+
+k影院
+http://boxe.xn--654a.cc/uploads/itvbox/api.json
+
+云视听
+https://uctral.vip/TV/uctral.json
+飞鸟影视https://agit.ai/397260863/1/raw/branch/master/52.json
+
+4K视界：
+http://app.4kjidi.com/jiekou/4k.json
+
+https://tudouaa1.oss-cn-beijing.aliyuncs.com/api/apix.json
+
+摸鱼4k
+https://jihulab.com/moyuer/jk/-/raw/main/moyu.json
